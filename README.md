@@ -1,3 +1,2 @@
-First main Java project. 
 # Converts a given Image URL (Png, Jpg) to ASCII Art, provided a scale, larger number = smaller.
-Project contains all of the code for the project. Labor of love.
+Project contains all of the code for the project. First Java Project.
