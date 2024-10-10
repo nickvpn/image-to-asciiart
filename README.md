@@ -1,4 +1,4 @@
-# Image to AsciiArt Converter
+# Image to Ascii Art Converter
 
 This project converts a given image (PNG or JPG) from a URL into ASCII art. Users can specify a scale for the output, with smaller numbers producing larger, more detailed ASCII representations.
 
