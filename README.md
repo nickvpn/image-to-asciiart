@@ -16,7 +16,7 @@ Here is an example of a converted image into ASCII art with an image scale of 5:
 ![Shane ASCII art conversion](images/shaneasciiart.png)
 
 
-**Note:** Please make sure to right click the image and open it in a new tab, then copy the link to the image there. The image link for the example used is [here.](https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season-two_shane_walsh.png/revision/latest?cb=20221017051657)
+**Note:** Please make sure to right click the image and open it in a new tab, then copy the link to the image there. The image link for the example used is [here](https://static.wikia.nocookie.net/walkingdead/images/a/a8/Season-two_shane_walsh.png/revision/latest?cb=20221017051657).
 ## Credit
 
 This project was inspired by similar image-to-ASCII conversion techniques available online, adapted for Java.
