@@ -1,6 +1,6 @@
 # Image to AsciiArt Converter
 
-This project converts a given image (PNG or JPG) from a URL into ASCII art. Users can specify a scale for the output, with larger numbers producing smaller, more detailed ASCII representations.
+This project converts a given image (PNG or JPG) from a URL into ASCII art. Users can specify a scale for the output, with smaller numbers producing larger, more detailed ASCII representations.
 
 
 ## Features
@@ -11,7 +11,7 @@ This project converts a given image (PNG or JPG) from a URL into ASCII art. User
 
 ## Example Output
 
-Here is an example of a converted image into ASCII art:
+Here is an example of a converted image into ASCII art with an image scale of 5:
 
 ![Shane ASCII art conversion](images/shaneasciiart.png)
 
