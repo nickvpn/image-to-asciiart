@@ -13,3 +13,8 @@ This project converts a given image (PNG or JPG) from a URL into ASCII art. User
 
 Here is an example of a converted image into ASCII art:
 
+![Shane ASCII art conversion](images/shaneasciiart)
+
+## Credit
+
+This project was inspired by similar image-to-ASCII conversion techniques available online, adapted for Java.
